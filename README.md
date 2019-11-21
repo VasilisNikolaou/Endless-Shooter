@@ -2,6 +2,5 @@
 
 It's an endless shooting 2D game made with unity.
 
-# Demo
 
-![Demo](EndlessShooter.gif)
+
